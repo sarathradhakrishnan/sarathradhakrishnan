@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sarathradhakrishnan_" target="blank"><img align="center" src="<a href='https://pngtree.com/so/logo-clipart'>logo clipart png from pngtree.com</a>" alt="sarathradhakrishnan_" height="30" width="40" /></a>
+<a href="https://instagram.com/sarathradhakrishnan_" target="blank"><img align="center" src="https://pngtree.com/so/logo-clipart" alt="sarathradhakrishnan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
