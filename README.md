@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sarathradhakrishnan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sarathradhakrishnan_" height="30" width="40" /></a>
+<a href="https://instagram.com/sarathradhakrishnan_" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/87/87390.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="sarathradhakrishnan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
