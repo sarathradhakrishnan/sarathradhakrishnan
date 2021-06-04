@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathradhakrishnan" alt="sarathradhakrishnan" /></a> </p>
 
-- 💬 Ask me about **Python,Java**
+- 💬 Ask me about **Python,Java,C**
 
 - 📫 How to reach me **sarathrk1@outlook.com**
 
